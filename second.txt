@@ -1,2 +1,0 @@
-This file is for testing the staging area.
-Its currently in PWD.
