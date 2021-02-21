@@ -6,3 +6,7 @@ This one alsio
 third change
 fourth change
 fifth change
+
+
+
+Now complete new feature.
