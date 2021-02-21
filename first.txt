@@ -10,3 +10,4 @@ fifth change
 
 
 Now complete new feature.
+Second new feature feature.
