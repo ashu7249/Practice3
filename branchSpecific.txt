@@ -6,3 +6,5 @@ now implementing the bank system.
 
 Bug in the bank system
 
+
+Bug in the bank system is cleared.
