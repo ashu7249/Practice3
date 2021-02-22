@@ -1,3 +1,7 @@
 This file is for testing the staging area.
 Its currently in PWD.
 branch scecific feature.
+
+
+
+Checking the diff command.
